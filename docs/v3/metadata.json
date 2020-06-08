@@ -54,7 +54,26 @@
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "the-baytree-way",
-      "SubCategories": []
+      "SubCategories": [
+        {
+          "Id": "cb0098f3-6e0b-4119-9c11-c9a9acb69f91",
+          "Name": "Acumatica",
+          "Image": "images/categories/acumatica.png",
+          "TechnologyId": "",
+          "SubjectId": "0d8255c6-a18f-432d-ab9d-d40f189ce461",
+          "Source": "the-baytree-way",
+          "SubCategories": []
+        },
+        {
+          "Id": "b600dde4-5a15-4e67-af70-86ce275904dd",
+          "Name": "ADP",
+          "Image": "images/categories/adp.png",
+          "TechnologyId": "",
+          "SubjectId": "0d8255c6-a18f-432d-ab9d-d40f189ce461",
+          "Source": "the-baytree-way",
+          "SubCategories": []
+        }
+      ]
     },
     {
       "Id": "50d1088d-c371-41b5-bcfe-0e188a6e1a31",
