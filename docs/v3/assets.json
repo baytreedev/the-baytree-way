@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "Id": "3b72f30f-1438-4551-b009-8ad6f7d924a2",
+    "Title": "PnP Provisioning Schema",
+    "Description": "",
+    "Url": "https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-provisioning-schema?context=context%2Fchromeless&linktarget=true",
+    "TechnologyId": "fbe2addf-cadb-4b45-a224-beb70392b493",
+    "SubjectId": "d2807d16-b820-4134-8daa-38a74ba07159",
+    "Source": "the-baytree-way",
+    "StatusTagId": "",
+    "StatusNote": ""
+  }
+]
