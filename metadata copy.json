@@ -1,0 +1,397 @@
+{
+  "Technologies": [
+    {
+      "Id": "4432b043-f353-4368-925e-582a4a9119ef",
+      "Name": "Acumatica",
+      "Subjects": []
+    },
+    {
+      "Id": "1b076572-c925-4412-aec7-0795d8c56c80",
+      "Name": "Pipeline",
+      "Subjects": []
+    },
+    {
+      "Id": "eb8230ff-b209-4e6d-a461-c94004c9014a",
+      "Name": "Samsara",
+      "Subjects": []
+    },
+    {
+      "Id": "6e2a2492-72bf-4dd9-9775-14e10bdd69ac",
+      "Name": "Office 365",
+      "Subjects": []
+    },
+    {
+      "Id": "c70c3463-6bdf-4435-a861-020dae86b349",
+      "Name": "Landscape Requests",
+      "Subjects": []
+    },
+    {
+      "Id": "b53673cc-01a1-43c4-9bb8-f56e40294393",
+      "Name": "PowerBI",
+      "Subjects": []
+    },
+    {
+      "Id": "09da152d-2ee0-49a0-a9a0-aa6bfa54e03c",
+      "Name": "Microsoft Teams",
+      "Subjects": []
+    },
+    {
+      "Id": "d01a5756-9863-4ec5-994a-3294f6f1ef1b",
+      "Name": "Trello",
+      "Subjects": []
+    },
+    {
+      "Id": "fbe2addf-cadb-4b45-a224-beb70392b493",
+      "Name": "General",
+      "Subjects": []
+    }
+  ],
+  "Categories": [
+    {
+      "Id": "0d8255c6-a18f-432d-ab9d-d40f189ce461",
+      "Name": "Applications",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "the-baytree-way",
+      "SubCategories": [
+        {
+          "Id": "cb0098f3-6e0b-4119-9c11-c9a9acb69f91",
+          "Name": "Acumatica",
+          "Image": "images/categories/acumatica.png",
+          "TechnologyId": "",
+          "SubjectId": "0d8255c6-a18f-432d-ab9d-d40f189ce461",
+          "Source": "the-baytree-way",
+          "SubCategories": []
+        },
+        {
+          "Id": "b600dde4-5a15-4e67-af70-86ce275904dd",
+          "Name": "ADP",
+          "Image": "images/categories/adp.png",
+          "TechnologyId": "",
+          "SubjectId": "0d8255c6-a18f-432d-ab9d-d40f189ce461",
+          "Source": "the-baytree-way",
+          "SubCategories": []
+        },
+        {
+          "Id": "46c69718-e8bb-4ae0-a2c2-0b2b5ff40e66",
+          "Name": "Pipeline (Baytree Internal Application",
+          "Image": "images/categories/pipeline.png",
+          "TechnologyId": "",
+          "SubjectId": "0d8255c6-a18f-432d-ab9d-d40f189ce461",
+          "Source": "the-baytree-way",
+          "SubCategories": []
+        },
+        {
+          "Id": "7f441966-8160-42f6-85c3-170b57c02985",
+          "Name": "Samsara",
+          "Image": "images/categories/samsara.png",
+          "TechnologyId": "",
+          "SubjectId": "0d8255c6-a18f-432d-ab9d-d40f189ce461",
+          "Source": "the-baytree-way",
+          "SubCategories": []
+        },
+        {
+          "Id": "f730ce47-3f25-48b8-a97c-2b8f2282bfb7",
+          "Name": "Office 365",
+          "Image": "images/categories/office365.png",
+          "TechnologyId": "",
+          "SubjectId": "0d8255c6-a18f-432d-ab9d-d40f189ce461",
+          "Source": "the-baytree-way",
+          "SubCategories": []
+        },
+        {
+          "Id": "85dc6724-23a1-4b20-bac5-265f844ae483",
+          "Name": "Landscape Requests (Baytree Internal Application)",
+          "Image": "images/categories/landscaperequests.png",
+          "TechnologyId": "",
+          "SubjectId": "0d8255c6-a18f-432d-ab9d-d40f189ce461",
+          "Source": "the-baytree-way",
+          "SubCategories": []
+        },
+        {
+          "Id": "3b7fe283-abd1-416f-a96c-bbb045f197da",
+          "Name": "PowerBi",
+          "Image": "images/categories/powerbi.png",
+          "TechnologyId": "",
+          "SubjectId": "0d8255c6-a18f-432d-ab9d-d40f189ce461",
+          "Source": "the-baytree-way",
+          "SubCategories": []
+        },
+        {
+          "Id": "89be2fa3-a75c-4323-9145-d6b361d31245",
+          "Name": "Microsoft Teams",
+          "Image": "images/categories/msftteams.png",
+          "TechnologyId": "",
+          "SubjectId": "0d8255c6-a18f-432d-ab9d-d40f189ce461",
+          "Source": "the-baytree-way",
+          "SubCategories": []
+        },
+        {
+          "Id": "cdcd70c3-2d9b-44b6-b242-5419f31c745bd",
+          "Name": "Trello",
+          "Image": "images/categories/trello.png",
+          "TechnologyId": "",
+          "SubjectId": "0d8255c6-a18f-432d-ab9d-d40f189ce461",
+          "Source": "the-baytree-way",
+          "SubCategories": []
+        },
+        {
+          "Id": "95a54a17-fde1-4972-bd08-1f2468d5f231",
+          "Name": "Wex",
+          "Image": "images/categories/wex.png",
+          "TechnologyId": "",
+          "SubjectId": "0d8255c6-a18f-432d-ab9d-d40f189ce461",
+          "Source": "the-baytree-way",
+          "SubCategories": []
+        }
+      ]
+    },
+    {
+      "Id": "50d1088d-c371-41b5-bcfe-0e188a6e1a31",
+      "Name": "Policies",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "the-baytree-way",
+      "SubCategories": [
+        {
+          "Id": "493dc110-0da1-47e4-870f-33285892cb49",
+          "Name": "Employment",
+          "Image": "images/categories/employment.png",
+          "TechnologyId": "",
+          "SubjectId": "50d1088d-c371-41b5-bcfe-0e188a6e1a31",
+          "Source": "the-baytree-way",
+          "SubCategories": []
+        }
+      ]
+    },
+    {
+      "Id": "82ef7459-e474-49cb-a152-206013a0e9d6",
+      "Name": "Processes",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "the-baytree-way",
+      "SubCategories": [
+        {
+          "Id": "70e91354-53ce-466b-9530-4aea047c96c6",
+          "Name": "Administration",
+          "Image": "images/categories/admin_process.png",
+          "TechnologyId": "",
+          "SubjectId": "82ef7459-e474-49cb-a152-206013a0e9d6",
+          "Source": "the-baytree-way",
+          "SubCategories": []
+        },
+        {
+          "Id": "ca2a4d7f-7610-4028-ab28-ed7239d79df3",
+          "Name": "Sales",
+          "Image": "images/categories/sales_process.png",
+          "TechnologyId": "",
+          "SubjectId": "82ef7459-e474-49cb-a152-206013a0e9d6",
+          "Source": "the-baytree-way",
+          "SubCategories": []
+        },
+        {
+          "Id": "8a202f50-e598-45ea-a9a0-e8ee53d4b36c",
+          "Name": "Team",
+          "Image": "images/categories/team_process.png",
+          "TechnologyId": "",
+          "SubjectId": "82ef7459-e474-49cb-a152-206013a0e9d6",
+          "Source": "the-baytree-way",
+          "SubCategories": []
+        },
+        {
+          "Id": "eabd483e-12fb-44bf-9f09-0889fb756346",
+          "Name": "Operations",
+          "Image": "images/categories/ops_process.png",
+          "TechnologyId": "",
+          "SubjectId": "82ef7459-e474-49cb-a152-206013a0e9d6",
+          "Source": "the-baytree-way",
+          "SubCategories": []
+        },
+        {
+          "Id": "d00b9041-f436-4bb9-b97d-9eafa5ec9a0f",
+          "Name": "Finance",
+          "Image": "images/categories/finance_process.png",
+          "TechnologyId": "",
+          "SubjectId": "82ef7459-e474-49cb-a152-206013a0e9d6",
+          "Source": "the-baytree-way",
+          "SubCategories": []
+        },
+        {
+          "Id": "753455bf-53e2-468f-a212-777d6cae2ff9",
+          "Name": "Equipment",
+          "Image": "images/categories/equipment_process.png",
+          "TechnologyId": "",
+          "SubjectId": "82ef7459-e474-49cb-a152-206013a0e9d6",
+          "Source": "the-baytree-way",
+          "SubCategories": []
+        },
+        {
+          "Id": "d7a695af-b384-48b1-bdaa-7aac9cd644f0",
+          "Name": "Facilities",
+          "Image": "images/categories/facilities_process.png",
+          "TechnologyId": "",
+          "SubjectId": "82ef7459-e474-49cb-a152-206013a0e9d6",
+          "Source": "the-baytree-way",
+          "SubCategories": []
+        },
+        {
+          "Id": "b434ae7a-f363-4999-a326-cee0194815dc",
+          "Name": "Process Management",
+          "Image": "images/categories/process_management_process.png",
+          "TechnologyId": "",
+          "SubjectId": "82ef7459-e474-49cb-a152-206013a0e9d6",
+          "Source": "the-baytree-way",
+          "SubCategories": []
+        }
+      ]
+    },
+    {
+      "Id": "76c01546-4267-4ff8-bcea-707195fed717",
+      "Name": "IT How To",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "the-baytree-way",
+      "SubCategories": [
+        {
+          "Id": "1ba93269-fe9d-44f2-9509-d86036c46580",
+          "Name": "Working on different devices",
+          "Image": "images/categories/it_how_to_devices.png",
+          "TechnologyId": "",
+          "SubjectId": "76c01546-4267-4ff8-bcea-707195fed717",
+          "Source": "the-baytree-way",
+          "SubCategories": []
+        },
+        {
+          "Id": "a828f992-4b23-4d06-9c93-1ba335d53e7c",
+          "Name": "Printing and Scanning",
+          "Image": "images/categories/it_how_to_print_scan.png",
+          "TechnologyId": "",
+          "SubjectId": "76c01546-4267-4ff8-bcea-707195fed717",
+          "Source": "the-baytree-way",
+          "SubCategories": []
+        },
+        {
+          "Id": "1df3ca7f-69e0-475c-9d79-0bb9e6b116a9",
+          "Name": "Mobile Phones",
+          "Image": "images/categories/it_how_to_mobile_phones.png",
+          "TechnologyId": "",
+          "SubjectId": "76c01546-4267-4ff8-bcea-707195fed717",
+          "Source": "the-baytree-way",
+          "SubCategories": []
+        },
+        {
+          "Id": "4aecb049-e9ab-4232-ba4f-9b60cc2f42d2",
+          "Name": "Desktop Phones",
+          "Image": "images/categories/it_how_to_desktop_phones.png",
+          "TechnologyId": "",
+          "SubjectId": "76c01546-4267-4ff8-bcea-707195fed717",
+          "Source": "the-baytree-way",
+          "SubCategories": []
+        },
+        {
+          "Id": "f5072e02-93de-4ee3-9e95-98a99ff9504f",
+          "Name": "Email Scams and Phishing",
+          "Image": "images/categories/it_how_to_scams.png",
+          "TechnologyId": "",
+          "SubjectId": "76c01546-4267-4ff8-bcea-707195fed717",
+          "Source": "the-baytree-way",
+          "SubCategories": []
+        },
+        {
+          "Id": "86e7e09d-ee0c-4fd5-9206-1882d7f7349a",
+          "Name": "Meetings",
+          "Image": "images/categories/it_how_to_meetings.png",
+          "TechnologyId": "",
+          "SubjectId": "76c01546-4267-4ff8-bcea-707195fed717",
+          "Source": "the-baytree-way",
+          "SubCategories": []
+        },
+        {
+          "Id": "312d4064-06da-4a0f-ae85-41d861206c31",
+          "Name": "Getting Help from IT",
+          "Image": "images/categories/it_how_to_getting_help.png",
+          "TechnologyId": "",
+          "SubjectId": "76c01546-4267-4ff8-bcea-707195fed717",
+          "Source": "the-baytree-way",
+          "SubCategories": []
+        }
+      ]
+    }
+  ],
+  "Audiences": [
+    {
+      "Id": "388959ef-1157-42bd-8e94-79d235aaae3c",
+      "Name": "Administration"
+    },
+    {
+      "Id": "dc0f6487-bd05-4e31-82ea-f6505ee4ac4f",
+      "Name": "Finance"
+    },
+    {
+      "Id": "5108ecc2-ca36-4ab1-b06b-f54a50c7239d",
+      "Name": "Operations"
+    },
+    {
+      "Id": "849cb198-9996-4793-bdfe-329ba1244e79",
+      "Name": "Sales"
+    },
+    {
+      "Id": "3e59e070-8fba-43b0-8d44-f52d213bc835",
+      "Name": "Team"
+    },
+    {
+      "Id": "4a8cae5d-ced3-412b-aaa8-86e6dfac9395",
+      "Name": "All"
+    }
+  ],
+  "Sources": ["the-baytree-way"],
+  "Levels": [
+    {
+      "Id": "45a11cdd-0d2d-4eb2-9830-a39ce54c80d4",
+      "Name": "Beginner"
+    },
+    {
+      "Id": "1bad868d-7113-4322-9fba-a4bce2ebf804",
+      "Name": "Intermediate"
+    },
+    {
+      "Id": "df196bc3-bdfd-485d-a3f5-7deae64787f0",
+      "Name": "Advanced"
+    }
+  ],
+  "StatusTag": [
+    {
+      "Id": "721daccd-8bfb-40f8-8c4e-51c354d9ba8c",
+      "Name": "New"
+    },
+    {
+      "Id": "e96db9c0-67f6-43fb-8a3c-5bc30bc309d8",
+      "Name": "Updated"
+    },
+    {
+      "Id": "6f13010f-b023-4bcb-ba5c-3bbb4667cb2b",
+      "Name": "Retiring"
+    },
+    {
+      "Id": "f603dc3a-2105-4f32-a83d-737744302732",
+      "Name": "Retired"
+    },
+    {
+      "Id": "885db31a-1547-4d0e-a4a6-a6d3120b80e4",
+      "Name": "Beta"
+    }
+  ],
+  "Telemetry": {},
+  "Version": {
+    "Manifest": "v3",
+    "ManifestMinWebPart": "3.0.0",
+    "CurrentWebPart": "3.0.0",
+    "RepoURL": "https://baytreedev.github.io/the-baytree-way/"
+  },
+  "ContentPacks": [],
+  "AssetOrigins": []
+}
