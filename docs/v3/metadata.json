@@ -80,12 +80,7 @@
           "TechnologyId": "",
           "SubjectId": "0d8255c6-a18f-432d-ab9d-d40f189ce461",
           "Source": "the-baytree-way",
-          "SubCategories": [
-            "5fc46ee0-d459-4369-9377-14520bc86ed8",
-            "989fdf05-5412-482f-b926-3f4ec3905a9e",
-            "ef9fc763-bd94-4328-bb3b-c41a5ed104f8",
-            "53b1ec44-0749-4517-bd9e-a03b8e7ae4d9"
-          ]
+          "SubCategories": []
         },
         {
           "Id": "7f441966-8160-42f6-85c3-170b57c02985",
@@ -94,7 +89,7 @@
           "TechnologyId": "",
           "SubjectId": "0d8255c6-a18f-432d-ab9d-d40f189ce461",
           "Source": "the-baytree-way",
-          "SubCategories": ["e1adb61d-4b0a-4bbb-8c6e-5654bb102704"]
+          "SubCategories": []
         },
         {
           "Id": "f730ce47-3f25-48b8-a97c-2b8f2282bfb7",
@@ -103,17 +98,7 @@
           "TechnologyId": "",
           "SubjectId": "0d8255c6-a18f-432d-ab9d-d40f189ce461",
           "Source": "the-baytree-way",
-          "SubCategories": [
-            "f493a893-9a5e-450a-ab57-c1141174307f",
-            "dbb5f795-ef55-405d-a793-729de4025fdb",
-            "d9680550-80f7-494c-acaa-0f49fd451602",
-            "4f7c070e-6166-458c-a919-12001287a44c",
-            "f378c88f-c2e0-427f-9d57-4a45a3323ae8",
-            "6e2ba3fe-651c-4576-a6a3-dc005cddf35f",
-            "cee7fbf5-e5fb-4ced-8ddb-3a48b941e8fb",
-            "de961d9c-7c1e-4cc9-83da-dfb4773f255b",
-            "e5bb3189-4473-4db7-9c12-434f2ed0f1de"
-          ]
+          "SubCategories": []
         },
         {
           "Id": "85dc6724-23a1-4b20-bac5-265f844ae483",
@@ -122,7 +107,7 @@
           "TechnologyId": "",
           "SubjectId": "0d8255c6-a18f-432d-ab9d-d40f189ce461",
           "Source": "the-baytree-way",
-          "SubCategories": ["c3c7f77b-9685-4c16-bd87-2c52eda4112a"]
+          "SubCategories": []
         },
         {
           "Id": "3b7fe283-abd1-416f-a96c-bbb045f197da",
@@ -131,7 +116,7 @@
           "TechnologyId": "",
           "SubjectId": "0d8255c6-a18f-432d-ab9d-d40f189ce461",
           "Source": "the-baytree-way",
-          "SubCategories": ["1bfa5869-e791-4895-8b1b-c39a33e1d3a9"]
+          "SubCategories": []
         },
         {
           "Id": "89be2fa3-a75c-4323-9145-d6b361d31245",
@@ -140,7 +125,7 @@
           "TechnologyId": "",
           "SubjectId": "0d8255c6-a18f-432d-ab9d-d40f189ce461",
           "Source": "the-baytree-way",
-          "SubCategories": ["fbe7c564-5ecd-4900-b245-9df0fb5595d9"]
+          "SubCategories": []
         },
         {
           "Id": "cdcd70c3-2d9b-44b6-b242-5419f31c745bd",
@@ -149,7 +134,7 @@
           "TechnologyId": "",
           "SubjectId": "0d8255c6-a18f-432d-ab9d-d40f189ce461",
           "Source": "the-baytree-way",
-          "SubCategories": ["603f9862-846a-445f-8f15-cceddf4e5efa"]
+          "SubCategories": []
         },
         {
           "Id": "95a54a17-fde1-4972-bd08-1f2468d5f231",
@@ -158,7 +143,7 @@
           "TechnologyId": "",
           "SubjectId": "0d8255c6-a18f-432d-ab9d-d40f189ce461",
           "Source": "the-baytree-way",
-          "SubCategories": ["1eebc843-bf10-4359-b099-516a4db063d2"]
+          "SubCategories": []
         }
       ]
     },
@@ -177,7 +162,7 @@
           "TechnologyId": "",
           "SubjectId": "50d1088d-c371-41b5-bcfe-0e188a6e1a31",
           "Source": "the-baytree-way",
-          "SubCategories": ["d39096e6-bc80-4b0b-8e71-8d2c39f7dacb"]
+          "SubCategories": []
         }
       ]
     },
