@@ -60,7 +60,7 @@
           "Name": "Acumatica",
           "Image": "images/categories/acumatica.png",
           "TechnologyId": "",
-          "SubjectId": "0d8255c6-a18f-432d-ab9d-d40f189ce461",
+          "SubjectId": null,
           "Source": "the-baytree-way",
           "SubCategories": []
         },
@@ -69,7 +69,7 @@
           "Name": "ADP",
           "Image": "images/categories/adp.png",
           "TechnologyId": "",
-          "SubjectId": "0d8255c6-a18f-432d-ab9d-d40f189ce461",
+          "SubjectId": null,
           "Source": "the-baytree-way",
           "SubCategories": []
         },
@@ -78,7 +78,7 @@
           "Name": "Pipeline (Baytree Internal Application",
           "Image": "images/categories/pipeline.png",
           "TechnologyId": "",
-          "SubjectId": "0d8255c6-a18f-432d-ab9d-d40f189ce461",
+          "SubjectId": null,
           "Source": "the-baytree-way",
           "SubCategories": []
         },
@@ -87,7 +87,7 @@
           "Name": "Samsara",
           "Image": "images/categories/samsara.png",
           "TechnologyId": "",
-          "SubjectId": "0d8255c6-a18f-432d-ab9d-d40f189ce461",
+          "SubjectId": null,
           "Source": "the-baytree-way",
           "SubCategories": []
         },
@@ -96,7 +96,7 @@
           "Name": "Office 365",
           "Image": "images/categories/office365.png",
           "TechnologyId": "",
-          "SubjectId": "0d8255c6-a18f-432d-ab9d-d40f189ce461",
+          "SubjectId": null,
           "Source": "the-baytree-way",
           "SubCategories": []
         },
@@ -105,7 +105,7 @@
           "Name": "Landscape Requests (Baytree Internal Application)",
           "Image": "images/categories/landscaperequests.png",
           "TechnologyId": "",
-          "SubjectId": "0d8255c6-a18f-432d-ab9d-d40f189ce461",
+          "SubjectId": null,
           "Source": "the-baytree-way",
           "SubCategories": []
         },
@@ -114,7 +114,7 @@
           "Name": "PowerBi",
           "Image": "images/categories/powerbi.png",
           "TechnologyId": "",
-          "SubjectId": "0d8255c6-a18f-432d-ab9d-d40f189ce461",
+          "SubjectId": null,
           "Source": "the-baytree-way",
           "SubCategories": []
         },
@@ -123,7 +123,7 @@
           "Name": "Microsoft Teams",
           "Image": "images/categories/msftteams.png",
           "TechnologyId": "",
-          "SubjectId": "0d8255c6-a18f-432d-ab9d-d40f189ce461",
+          "SubjectId": null,
           "Source": "the-baytree-way",
           "SubCategories": []
         },
@@ -132,7 +132,7 @@
           "Name": "Trello",
           "Image": "images/categories/trello.png",
           "TechnologyId": "",
-          "SubjectId": "0d8255c6-a18f-432d-ab9d-d40f189ce461",
+          "SubjectId": null,
           "Source": "the-baytree-way",
           "SubCategories": []
         },
@@ -141,7 +141,7 @@
           "Name": "Wex",
           "Image": "images/categories/wex.png",
           "TechnologyId": "",
-          "SubjectId": "0d8255c6-a18f-432d-ab9d-d40f189ce461",
+          "SubjectId": null,
           "Source": "the-baytree-way",
           "SubCategories": []
         }
