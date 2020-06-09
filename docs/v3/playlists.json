@@ -1,5 +1,20 @@
 [
   {
+    "Id": "c0d8168d-46f1-4435-b551-ef153c74d71f",
+    "Title": "Quick Start",
+    "Image": "images/playlists/acumatica_quick_start.png",
+    "LevelId": "45a11cdd-0d2d-4eb2-9830-a39ce54c80d4",
+    "AudienceId": "4a8cae5d-ced3-412b-aaa8-86e6dfac9395",
+    "TechnologyId": "4432b043-f353-4368-925e-582a4a9119ef",
+    "SubjectId": "",
+    "Source": "the-baytree-way",
+    "CatId": "cb0098f3-6e0b-4119-9c11-c9a9acb69f91",
+    "Description": "Learn the basics of Acumatica.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": ["3b72f30f-1438-4551-b009-8ad6f7d924a2"]
+  },
+  {
     "Id": "d2807d16-b820-4134-8daa-38a74ba07159",
     "Title": "Your personal ADP account",
     "Image": "images/playlists/quick_start.png",
