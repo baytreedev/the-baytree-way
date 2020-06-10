@@ -160,7 +160,7 @@
           "Name": "Employment",
           "Image": "images/categories/employment.png",
           "TechnologyId": "",
-          "SubjectId": "null",
+          "SubjectId": null,
           "Source": "",
           "SubCategories": []
         }
@@ -173,7 +173,80 @@
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "",
-      "SubCategories": []
+      "SubCategories": [
+        {
+          "Id": "70e91354-53ce-466b-9530-4aea047c96c6",
+          "Name": "Administration",
+          "Image": "images/categories/admin_process.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "ca2a4d7f-7610-4028-ab28-ed7239d79df3",
+          "Name": "Sales",
+          "Image": "images/categories/sales_process.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "8a202f50-e598-45ea-a9a0-e8ee53d4b36c",
+          "Name": "Team",
+          "Image": "images/categories/team_process.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "eabd483e-12fb-44bf-9f09-0889fb756346",
+          "Name": "Operations",
+          "Image": "images/categories/ops_process.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "d00b9041-f436-4bb9-b97d-9eafa5ec9a0f",
+          "Name": "Finance",
+          "Image": "images/categories/finance_process.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "753455bf-53e2-468f-a212-777d6cae2ff9",
+          "Name": "Equipment",
+          "Image": "images/categories/equipment_process.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "d7a695af-b384-48b1-bdaa-7aac9cd644f0",
+          "Name": "Facilities",
+          "Image": "images/categories/facilities_process.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "b434ae7a-f363-4999-a326-cee0194815dc",
+          "Name": "Process Management",
+          "Image": "images/categories/process_management_process.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        }
+      ]
     },
     {
       "Id": "76c01546-4267-4ff8-bcea-707195fed717",
@@ -182,7 +255,71 @@
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "",
-      "SubCategories": []
+      "SubCategories": [
+        {
+          "Id": "1ba93269-fe9d-44f2-9509-d86036c46580",
+          "Name": "Working on different devices",
+          "Image": "images/categories/it_how_to_devices.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "a828f992-4b23-4d06-9c93-1ba335d53e7c",
+          "Name": "Printing and Scanning",
+          "Image": "images/categories/it_how_to_print_scan.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "1df3ca7f-69e0-475c-9d79-0bb9e6b116a9",
+          "Name": "Mobile Phones",
+          "Image": "images/categories/it_how_to_mobile_phones.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "4aecb049-e9ab-4232-ba4f-9b60cc2f42d2",
+          "Name": "Desktop Phones",
+          "Image": "images/categories/it_how_to_desktop_phones.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "f5072e02-93de-4ee3-9e95-98a99ff9504f",
+          "Name": "Email Scams and Phishing",
+          "Image": "images/categories/it_how_to_scams.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "86e7e09d-ee0c-4fd5-9206-1882d7f7349a",
+          "Name": "Meetings",
+          "Image": "images/categories/it_how_to_meetings.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "312d4064-06da-4a0f-ae85-41d861206c31",
+          "Name": "Getting Help from IT",
+          "Image": "images/categories/it_how_to_getting_help.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        }
+      ]
     }
   ],
   "Audiences": [
