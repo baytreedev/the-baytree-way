@@ -43,7 +43,7 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": ["8626b656-ebfa-4ce9-b3b5-6941f19591d0"]
-  }
+  },
   {
     "Id": "989fdf05-5412-482f-b926-3f4ec3905a9e",
     "Title": "Sales",
@@ -479,5 +479,4 @@
     "StatusNote": "",
     "Assets": []
   }
-
 ]
