@@ -47,7 +47,7 @@
   {
     "Id": "989fdf05-5412-482f-b926-3f4ec3905a9e",
     "Title": "Sales",
-    "Image": "images/playlists/sales.png",
+    "Image": "images/categories/sales_process.png",
     "LevelId": "1bad868d-7113-4322-9fba-a4bce2ebf804",
     "AudienceId": "849cb198-9996-4793-bdfe-329ba1244e79",
     "TechnologyId": "1b076572-c925-4412-aec7-0795d8c56c80",
@@ -92,7 +92,7 @@
   {
     "Id": "e1adb61d-4b0a-4bbb-8c6e-5654bb102704",
     "Title": "Quick Start",
-    "Image": "images/playlists/quick_start.png",
+    "Image": "images/categories/samsara.png",
     "LevelId": "45a11cdd-0d2d-4eb2-9830-a39ce54c80d4",
     "AudienceId": "4a8cae5d-ced3-412b-aaa8-86e6dfac9395",
     "TechnologyId": "eb8230ff-b209-4e6d-a461-c94004c9014a",
@@ -107,7 +107,7 @@
   {
     "Id": "f493a893-9a5e-450a-ab57-c1141174307f",
     "Title": "Quick Start",
-    "Image": "images/playlists/quick_start.png",
+    "Image": "images/categories/office365.png",
     "LevelId": "45a11cdd-0d2d-4eb2-9830-a39ce54c80d4",
     "AudienceId": "4a8cae5d-ced3-412b-aaa8-86e6dfac9395",
     "TechnologyId": "6e2a2492-72bf-4dd9-9775-14e10bdd69ac",
@@ -242,7 +242,7 @@
   {
     "Id": "c3c7f77b-9685-4c16-bd87-2c52eda4112a",
     "Title": "Quick Start",
-    "Image": "images/playlists/quick_start.png",
+    "Image": "images/playlists/landscaperequests.png",
     "LevelId": "45a11cdd-0d2d-4eb2-9830-a39ce54c80d4",
     "AudienceId": "4a8cae5d-ced3-412b-aaa8-86e6dfac9395",
     "TechnologyId": "fbe2addf-cadb-4b45-a224-beb70392b493",
@@ -257,7 +257,7 @@
   {
     "Id": "1bfa5869-e791-4895-8b1b-c39a33e1d3a9",
     "Title": "Quick Start",
-    "Image": "images/playlists/quick_start.png",
+    "Image": "images/categories/powerbi.png",
     "LevelId": "45a11cdd-0d2d-4eb2-9830-a39ce54c80d4",
     "AudienceId": "4a8cae5d-ced3-412b-aaa8-86e6dfac9395",
     "TechnologyId": "b53673cc-01a1-43c4-9bb8-f56e40294393",
@@ -272,7 +272,7 @@
   {
     "Id": "fbe7c564-5ecd-4900-b245-9df0fb5595d9",
     "Title": "Quick Start",
-    "Image": "images/playlists/quick_start.png",
+    "Image": "images/categories/msftteams.png",
     "LevelId": "45a11cdd-0d2d-4eb2-9830-a39ce54c80d4",
     "AudienceId": "4a8cae5d-ced3-412b-aaa8-86e6dfac9395",
     "TechnologyId": "09da152d-2ee0-49a0-a9a0-aa6bfa54e03c",
@@ -287,7 +287,7 @@
   {
     "Id": "603f9862-846a-445f-8f15-cceddf4e5efa",
     "Title": "Quick Start",
-    "Image": "images/playlists/quick_start.png",
+    "Image": "images/categories/trello.png",
     "LevelId": "45a11cdd-0d2d-4eb2-9830-a39ce54c80d4",
     "AudienceId": "4a8cae5d-ced3-412b-aaa8-86e6dfac9395",
     "TechnologyId": "d01a5756-9863-4ec5-994a-3294f6f1ef1b",
@@ -302,7 +302,7 @@
   {
     "Id": "1eebc843-bf10-4359-b099-516a4db063d2",
     "Title": "Quick Start",
-    "Image": "images/playlists/quick_start.png",
+    "Image": "images/categories/wex.png",
     "LevelId": "1bad868d-7113-4322-9fba-a4bce2ebf804",
     "AudienceId": "388959ef-1157-42bd-8e94-79d235aaae3c",
     "TechnologyId": "fbe2addf-cadb-4b45-a224-beb70392b493",
