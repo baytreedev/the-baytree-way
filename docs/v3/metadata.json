@@ -53,7 +53,7 @@
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
-      "Source": "the-baytree-way",
+      "Source": "",
       "SubCategories": [
         {
           "Id": "cb0098f3-6e0b-4119-9c11-c9a9acb69f91",
@@ -61,7 +61,7 @@
           "Image": "images/categories/acumatica.png",
           "TechnologyId": "",
           "SubjectId": null,
-          "Source": "the-baytree-way",
+          "Source": "",
           "SubCategories": []
         },
         {
@@ -70,7 +70,7 @@
           "Image": "images/categories/adp.png",
           "TechnologyId": "",
           "SubjectId": null,
-          "Source": "the-baytree-way",
+          "Source": "",
           "SubCategories": []
         },
         {
@@ -79,7 +79,7 @@
           "Image": "images/categories/pipeline.png",
           "TechnologyId": "",
           "SubjectId": null,
-          "Source": "the-baytree-way",
+          "Source": "",
           "SubCategories": []
         },
         {
@@ -88,7 +88,7 @@
           "Image": "images/categories/samsara.png",
           "TechnologyId": "",
           "SubjectId": null,
-          "Source": "the-baytree-way",
+          "Source": "",
           "SubCategories": []
         },
         {
@@ -97,7 +97,7 @@
           "Image": "images/categories/office365.png",
           "TechnologyId": "",
           "SubjectId": null,
-          "Source": "the-baytree-way",
+          "Source": "",
           "SubCategories": []
         },
         {
@@ -106,7 +106,7 @@
           "Image": "images/categories/landscaperequests.png",
           "TechnologyId": "",
           "SubjectId": null,
-          "Source": "the-baytree-way",
+          "Source": "",
           "SubCategories": []
         },
         {
@@ -115,7 +115,7 @@
           "Image": "images/categories/powerbi.png",
           "TechnologyId": "",
           "SubjectId": null,
-          "Source": "the-baytree-way",
+          "Source": "",
           "SubCategories": []
         },
         {
@@ -124,7 +124,7 @@
           "Image": "images/categories/msftteams.png",
           "TechnologyId": "",
           "SubjectId": null,
-          "Source": "the-baytree-way",
+          "Source": "",
           "SubCategories": []
         },
         {
@@ -133,7 +133,7 @@
           "Image": "images/categories/trello.png",
           "TechnologyId": "",
           "SubjectId": null,
-          "Source": "the-baytree-way",
+          "Source": "",
           "SubCategories": []
         },
         {
@@ -142,7 +142,7 @@
           "Image": "images/categories/wex.png",
           "TechnologyId": "",
           "SubjectId": null,
-          "Source": "the-baytree-way",
+          "Source": "",
           "SubCategories": []
         }
       ]
@@ -153,8 +153,18 @@
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
-      "Source": "the-baytree-way",
-      "SubCategories": []
+      "Source": "",
+      "SubCategories": [
+        {
+          "Id": "493dc110-0da1-47e4-870f-33285892cb49",
+          "Name": "Employment",
+          "Image": "images/categories/employment.png",
+          "TechnologyId": "",
+          "SubjectId": "null",
+          "Source": "",
+          "SubCategories": []
+        }
+      ]
     },
     {
       "Id": "82ef7459-e474-49cb-a152-206013a0e9d6",
@@ -162,7 +172,7 @@
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
-      "Source": "the-baytree-way",
+      "Source": "",
       "SubCategories": []
     },
     {
@@ -171,7 +181,7 @@
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
-      "Source": "the-baytree-way",
+      "Source": "",
       "SubCategories": []
     }
   ],
@@ -201,7 +211,7 @@
       "Name": "All"
     }
   ],
-  "Sources": ["the-baytree-way"],
+  "Sources": [""],
   "Levels": [
     {
       "Id": "45a11cdd-0d2d-4eb2-9830-a39ce54c80d4",
@@ -243,7 +253,7 @@
     "Manifest": "v3",
     "ManifestMinWebPart": "3.0.0",
     "CurrentWebPart": "3.0.0",
-    "RepoURL": "https://baytreedev.github.io/the-baytree-way/"
+    "RepoURL": "https://baytreedev.github.io//"
   },
   "ContentPacks": [],
   "AssetOrigins": []
