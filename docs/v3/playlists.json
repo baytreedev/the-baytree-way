@@ -465,6 +465,21 @@
     "Assets": []
   },
   {
+    "Id": "8d674388-5422-4a16-aeea-40f769e0051c",
+    "Title": "Mobile Phones",
+    "Image": "images/categories/it_how_to_mobile_phones.png",
+    "LevelId": "45a11cdd-0d2d-4eb2-9830-a39ce54c80d4",
+    "AudienceId": "4a8cae5d-ced3-412b-aaa8-86e6dfac9395",
+    "TechnologyId": "fbe2addf-cadb-4b45-a224-beb70392b493",
+    "SubjectId": "",
+    "Source": "",
+    "CatId": "1df3ca7f-69e0-475c-9d79-0bb9e6b116a9",
+    "Description": "Guide to Computer devices.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": ["bf2fa07a-0767-4a20-b3cc-08f77a424747"]
+  },
+  {
     "Id": "9903fd51-ee40-41f8-8e0a-eef0edecc253",
     "Title": "Remote Help",
     "Image": "images/playlists/remote_help.png",
