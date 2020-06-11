@@ -14,7 +14,7 @@
     "Id": "3b72f30f-1438-4551-b009-8ad6f7d924a2",
     "Title": "Opting out of Earning Statements",
     "Description": "",
-    "Url": "https://baytreelandscape.sharepoint.com/sites/the-baytree-way/SitePages/OptingOutOfEarningStatements.aspx",
+    "Url": "https://baytreelandscape.sharepoint.com/sites/the-baytree-way/SitePages/Opting-out-of-earnings-statement.aspx",
     "TechnologyId": "fbe2addf-cadb-4b45-a224-beb70392b493",
     "SubjectId": "d2807d16-b820-4134-8daa-38a74ba07159",
     "Source": "Tenant",
@@ -28,6 +28,17 @@
     "Url": "https://baytreelandscape.sharepoint.com/sites/modusoperandi/SitePages/MaintenanceContractOnBoarding.aspx",
     "TechnologyId": "1b076572-c925-4412-aec7-0795d8c56c80",
     "SubjectId": "5fc46ee0-d459-4369-9377-14520bc86ed8",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "bf2fa07a-0767-4a20-b3cc-08f77a424747",
+    "Title": "Transfer Mobile pictures and files to OneDrive",
+    "Description": "",
+    "Url": "https://baytreelandscape.sharepoint.com/sites/the-baytree-way/SitePages/Transfer-Mobile-pictures-and-files-to-OneDrive.aspx",
+    "TechnologyId": "fbe2addf-cadb-4b45-a224-beb70392b493",
+    "SubjectId": "1df3ca7f-69e0-475c-9d79-0bb9e6b116a9",
     "Source": "Tenant",
     "StatusTagId": "",
     "StatusNote": ""
