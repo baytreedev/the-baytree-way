@@ -432,7 +432,7 @@
     "Description": "Guide to Android devices.",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": ["b40351e5-980e-4915-9e38-bde46f0a484f"]
+    "Assets": ["bf2fa07a-0767-4a20-b3cc-08f77a424747"]
   },
   {
     "Id": "53e116af-d0c9-4546-bd3d-41ad7474d97d",
@@ -447,7 +447,10 @@
     "Description": "Guide to iPhone devices.",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": ["a6537bde-edcd-4835-903b-42b09da31fcc"]
+    "Assets": [
+      "a6537bde-edcd-4835-903b-42b09da31fcc",
+      "1957567d-5272-492d-943b-69c64d00a637"
+    ]
   },
   {
     "Id": "c8f7deed-b6cf-42fd-993b-4da17bc91cea",
