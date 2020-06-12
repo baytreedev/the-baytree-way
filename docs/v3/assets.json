@@ -109,12 +109,22 @@
     "StatusTagId": "",
     "StatusNote": ""
   },
-
   {
     "Id": "b40351e5-980e-4915-9e38-bde46f0a484f",
     "Title": "Setting up 'Out of Office' replies on PC",
     "Description": "",
     "Url": "https://baytreelandscape.sharepoint.com/sites/the-baytree-way/SitePages/Setting-up-Out-of-Office-replies-on-PC.aspx",
+    "TechnologyId": "fbe2addf-cadb-4b45-a224-beb70392b493",
+    "SubjectId": "c8f7deed-b6cf-42fd-993b-4da17bc91cea",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "ec98ae7b-3a33-4f32-b211-d0237724f689",
+    "Title": "How to use Teams on PC",
+    "Description": "",
+    "Url": "https://baytreelandscape.sharepoint.com/sites/the-baytree-way/SitePages/How-to-use-Teams-on-PC.aspx",
     "TechnologyId": "fbe2addf-cadb-4b45-a224-beb70392b493",
     "SubjectId": "c8f7deed-b6cf-42fd-993b-4da17bc91cea",
     "Source": "Tenant",
