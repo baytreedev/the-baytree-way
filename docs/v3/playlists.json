@@ -434,7 +434,9 @@
     "StatusNote": "",
     "Assets": [
       "bf2fa07a-0767-4a20-b3cc-08f77a424747",
-      "023a92e5-1f2d-4d41-9c89-8c18bf23ef48"
+      "023a92e5-1f2d-4d41-9c89-8c18bf23ef48",
+      "6e25b796-6297-4a0e-b56e-359ae285457f",
+      "9a29e4df-0198-4777-aafb-dec061745265"
     ]
   },
   {
@@ -452,7 +454,8 @@
     "StatusNote": "",
     "Assets": [
       "a6537bde-edcd-4835-903b-42b09da31fcc",
-      "1957567d-5272-492d-943b-69c64d00a637"
+      "1957567d-5272-492d-943b-69c64d00a637",
+      "64f76430-f6ea-42f5-a4ad-8fa6fd04db64"
     ]
   },
   {
@@ -468,7 +471,10 @@
     "Description": "Guide to Computer devices.",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": ["b40351e5-980e-4915-9e38-bde46f0a484f"]
+    "Assets": [
+      "b40351e5-980e-4915-9e38-bde46f0a484f",
+      "ec98ae7b-3a33-4f32-b211-d0237724f689"
+    ]
   },
   {
     "Id": "8d674388-5422-4a16-aeea-40f769e0051c",
