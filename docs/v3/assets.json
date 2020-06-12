@@ -1,7 +1,7 @@
 [
   {
     "Id": "28b930cf-1585-4561-97e9-d9169029e7f5",
-    "Title": "Acumatica Structure",
+    "Title": "Overview of Acumatica",
     "Description": "",
     "Url": "https://baytreelandscape.sharepoint.com/sites/modusoperandi/SitePages/AcumaticaStructure.aspx",
     "TechnologyId": "4432b043-f353-4368-925e-582a4a9119ef",
@@ -45,9 +45,31 @@
   },
   {
     "Id": "023a92e5-1f2d-4d41-9c89-8c18bf23ef48",
-    "Title": "setting up Out of Office on Android",
+    "Title": "Setting up Out of Office on Android",
     "Description": "",
     "Url": "https://baytreelandscape.sharepoint.com/sites/the-baytree-way/SitePages/Setting-up-Out-of-Office-replies-on-Android.aspx",
+    "TechnologyId": "fbe2addf-cadb-4b45-a224-beb70392b493",
+    "SubjectId": "e0c4d757-5e7e-478b-9097-23f640c048ab",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "6e25b796-6297-4a0e-b56e-359ae285457f",
+    "Title": "How to connect to your Android hotspot",
+    "Description": "",
+    "Url": "https://baytreelandscape.sharepoint.com/sites/the-baytree-way/SitePages/How-to-connect-to-your-Android-hotspot.aspx",
+    "TechnologyId": "fbe2addf-cadb-4b45-a224-beb70392b493",
+    "SubjectId": "e0c4d757-5e7e-478b-9097-23f640c048ab",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "9a29e4df-0198-4777-aafb-dec061745265",
+    "Title": "How to connect Android mobile to Microsoft Wireless Access Adapter",
+    "Description": "",
+    "Url": "https://baytreelandscape.sharepoint.com/sites/the-baytree-way/SitePages/How-to-connect-android-mobile-to-Microsoft-Wireless-Adapter.aspx",
     "TechnologyId": "fbe2addf-cadb-4b45-a224-beb70392b493",
     "SubjectId": "e0c4d757-5e7e-478b-9097-23f640c048ab",
     "Source": "Tenant",
@@ -76,6 +98,18 @@
     "StatusTagId": "",
     "StatusNote": ""
   },
+  {
+    "Id": "64f76430-f6ea-42f5-a4ad-8fa6fd04db64",
+    "Title": "How to connect your iPhone hotspot",
+    "Description": "",
+    "Url": "https://baytreelandscape.sharepoint.com/sites/the-baytree-way/SitePages/How-to-connect-to-your-iPhone-hotspot.aspx",
+    "TechnologyId": "fbe2addf-cadb-4b45-a224-beb70392b493",
+    "SubjectId": "53e116af-d0c9-4546-bd3d-41ad7474d97d",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+
   {
     "Id": "b40351e5-980e-4915-9e38-bde46f0a484f",
     "Title": "Setting up 'Out of Office' replies on PC",
